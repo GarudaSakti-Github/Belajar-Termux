@@ -1,0 +1,1 @@
+{"appid":"a50919a7-e0fd-426a-889a-7f177bc865fa","userid":"2634a6f9e17a126b6ac9d401c8a91978","sessionid":9169050438704250065,"platform":"AndroidPlayer","platformid":11,"sdk_ver":"u2019.1.13f1","session_count":84,"localprojectid":"58a911d3fa5ba0145978d3c37113443a","build_guid":"141385ecd457b4768a188d97621d03e1","deviceid":"f79456d15812c5afe1cb7fa5a0861455"}
